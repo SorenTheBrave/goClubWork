@@ -1,0 +1,4 @@
+baseurl = "http://columbusgo.club/"
+languageCode = "en-us"
+title = "Columbus Go Club"
+theme = "hugo-base"

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Columbus Go Club</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Columbus Go Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Mar 2016 00:14:44 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to the Columbus Go Club&#39;s Homepage!</title>
+      <link>http://localhost:1313/post/content/welcome/</link>
+      <pubDate>Sun, 27 Mar 2016 00:14:44 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/content/welcome/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet&amp;hellip; :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
