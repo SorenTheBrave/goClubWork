@@ -1,0 +1,77 @@
+div{
+	font-family: "arial", sans;
+}
+
+h2{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.fade-in-left{
+	right: 50px;
+	opacity: 0;
+}
+
+#container{
+	height: 300em;
+	background-color: white;
+}
+
+#welcome-heading{
+	color: black;
+	font-family: "arial", sans;
+	text-align: center;
+	font-size: 4em;
+	padding-top: 1.5em;
+	margin: 0 auto;
+	width: 	95%;
+	letter-spacing: -2px;
+}
+
+#go-stones{
+	margin-top: 10em;
+	margin: 0 auto;
+	height: 7em;
+	width: 180px;
+	padding: 2em;
+	opacity: .8;
+}
+
+#tagline{
+	font-family: 'Playfair Display', times; /* <-- + what??? */
+	padding-top: 2em;
+	margin: 0 auto;
+	width: 40%;
+	text-align: center;
+	font-size: 2em;
+	font-weight: lighter;
+}
+
+#scroll-text{
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	margin: 0 auto;
+	padding-top: 12em;
+	position: relative;
+}
+
+#scroll-two{
+	font-family: times;
+	font-weight: lighter;
+}
+
+#about-panels{
+	text-align: center;
+	width: 90%;
+	height: 500px;
+	padding-top: -5em;
+	margin-top: 5em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#come-join-us{
+	font-size: 2.5em;
+	font-weight: bolder;
+}
